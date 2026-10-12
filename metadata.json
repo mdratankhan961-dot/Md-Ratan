@@ -1,0 +1,6 @@
+{
+  "name": "TakaEarn BD - Premium Task & Rewards Platform",
+  "description": "Bangladesh's premier task earning and reward platform with bKash, Nagad, and Rocket instant withdrawals, daily tasks, spinning wheel, and referral bonuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
